@@ -33,3 +33,9 @@ Copy all files from your local machine to the /code directory in the container, 
 <img width="245" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 05 28" src="https://github.com/user-attachments/assets/5f78b92d-1a8a-43cc-bdec-6663a9e2bbd4">
 
 Open port 8000 in the container, which is the port on which the application (e.g. Django) will run. This specifies that the container can accept connections over this port.
+
+<img width="435" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 05 41" src="https://github.com/user-attachments/assets/0835665e-82cc-4ad4-be8a-006f2d3bea33">
+
+Specify the command to run when the container starts, in this case python manage.py runserver , which is Django's command to run the web server.
+
+Docker Image.
