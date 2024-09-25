@@ -25,3 +25,7 @@ Copy the `requirements.txt` file from your machine to the container in the `/cod
 <img width="370" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 07 57 23" src="https://github.com/user-attachments/assets/b15eb8bf-fc43-4bcb-a1e8-e188901adde0">
 
 Install all the dependencies specified in the requirements.txt file using the pip command. This is the step to prepare the environment required for the app.
+
+<img width="229" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 02 46" src="https://github.com/user-attachments/assets/3ab9b1bf-1aed-44a8-8c66-a785047d599c">
+
+Copy all files from your local machine to the /code directory in the container, including all the application code.
