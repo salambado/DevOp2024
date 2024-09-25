@@ -52,4 +52,5 @@ Docker Image.
 In total, this command will:
 
 -Read the docker-compose.yml file.
+
 -Create a new image (if any changes) and run the specified container.
