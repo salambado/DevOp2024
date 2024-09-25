@@ -21,3 +21,7 @@ Set the working folder in the container to `/code`. All commands from now on wil
 <img width="310" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 07 56 43" src="https://github.com/user-attachments/assets/6a221acc-b04c-4d8a-9089-79012b549b9b">
 
 Copy the `requirements.txt` file from your machine to the container in the `/code` folder. This file tells you what add-ons or packages the application needs to install.
+
+<img width="370" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 07 57 23" src="https://github.com/user-attachments/assets/b15eb8bf-fc43-4bcb-a1e8-e188901adde0">
+
+Install all the dependencies specified in the requirements.txt file using the pip command. This is the step to prepare the environment required for the app.
