@@ -38,4 +38,7 @@ Open port 8000 in the container, which is the port on which the application (e.g
 
 Specify the command to run when the container starts, in this case python manage.py runserver , which is Django's command to run the web server.
 
+
+
+
 Docker Image.
