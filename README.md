@@ -1,0 +1,1 @@
+These commands are a Dockerfile for building a Docker image using Python 3.10 and setting it up so the application can run (it's probably Django, since it has a manage.py runserver command). Each command works as follows:
