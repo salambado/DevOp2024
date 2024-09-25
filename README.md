@@ -17,3 +17,7 @@ Set the environment variable PYTHONUNBUFFERED=1 to have Python display the text 
 
 
 Set the working folder in the container to `/code`. All commands from now on will be executed in this folder (just like changing folders on your computer).
+
+<img width="310" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 07 56 43" src="https://github.com/user-attachments/assets/6a221acc-b04c-4d8a-9089-79012b549b9b">
+
+Copy the `requirements.txt` file from your machine to the container in the `/code` folder. This file tells you what add-ons or packages the application needs to install.
