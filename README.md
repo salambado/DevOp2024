@@ -29,3 +29,7 @@ Install all the dependencies specified in the requirements.txt file using the pi
 <img width="229" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 02 46" src="https://github.com/user-attachments/assets/3ab9b1bf-1aed-44a8-8c66-a785047d599c">
 
 Copy all files from your local machine to the /code directory in the container, including all the application code.
+
+<img width="245" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 05 28" src="https://github.com/user-attachments/assets/5f78b92d-1a8a-43cc-bdec-6663a9e2bbd4">
+
+Open port 8000 in the container, which is the port on which the application (e.g. Django) will run. This specifies that the container can accept connections over this port.
