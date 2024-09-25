@@ -42,3 +42,14 @@ Specify the command to run when the container starts, in this case python manage
 
 
 Docker Image.
+
+
+<img width="262" alt="ภาพถ่ายหน้าจอ 2567-09-25 เวลา 08 17 13" src="https://github.com/user-attachments/assets/00a678a2-69e8-45db-abf2-3708ac7ac704">
+
+1.docker compose up: This command is used to start the services defined in the docker-compose.yml file.
+2.--build: This option is used to force Docker to rebuild a new Docker image for each service before starting the container, whether the image already exists or not.
+
+In total, this command will:
+
+-Read the docker-compose.yml file.
+-Create a new image (if any changes) and run the specified container.
